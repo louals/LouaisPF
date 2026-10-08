@@ -1,12 +1,47 @@
-# React + Vite
+# LouaisPF
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Louai's first personal portfolio / CV website built with React and Vite.
 
-Currently, two official plugins are available:
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
 
-## Expanding the ESLint configuration
+Louai's personal portfolio / CV website built with React and Vite.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+React, Vite
+
+## Features
+
+- Personal portfolio
+- Minimal setup
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have the tools required for this stack installed (e.g. Python 3.10+, Node.js 18+, or Android Studio).
+
+### Installation & Usage
+
+```bash
+git clone https://github.com/<your-username>/LouaisPF.git
+cd LouaisPF
+npm install
+npm run dev
+```
+Open http://localhost:5173. Build for production with `npm run build`.
+
+## Contributing
+
+Contributions are welcome. Fork the repo, create a feature branch, and open a pull request.
+
+## License
+
+Distributed under the MIT License (change as needed).
+
+## Author
+
+**Louai**: [GitHub](https://github.com/<louals>)
